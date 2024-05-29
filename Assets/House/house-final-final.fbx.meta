@@ -3,7 +3,112 @@ guid: 60d0750415c0ed24b8614d66953b80c4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Abandoned building old plaster brick wall
+    second: {fileID: 2100000, guid: 2f02f8d3458579a4385d1ab1121c2376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barkless tree wood
+    second: {fileID: 2100000, guid: bd7475abd9b7f4949a966856d5c6ce04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cemented brick wall
+    second: {fileID: 2100000, guid: adc4ba6f26ad16e4888592e9fd8e02c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirty wood stage
+    second: {fileID: 2100000, guid: 239e23d123ae7174e8590338a69c6fa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mossy roof tiles
+    second: {fileID: 2100000, guid: e29727170e96a894c979e146dd100aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old rusty fence
+    second: {fileID: 2100000, guid: e068db0bde6d641429464e806d24dc12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old wood parquet
+    second: {fileID: 2100000, guid: d11bbd6633ecdff45ab5ec9534a477a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark mossy wood
+    second: {fileID: 2100000, guid: c4e4c5d191b3dfa4586ab1c18e552ce4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drzwi-bez-schodow
+    second: {fileID: 2100000, guid: e7098f84a2b8de343bea301055186710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drzwi-otwarte
+    second: {fileID: 2100000, guid: b633721514dd7a04bb794f2b624f48c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drzwi-przod-male
+    second: {fileID: 2100000, guid: 04e7ae8b24b5c1f4a98e9743743d6427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drzwi-tyl
+    second: {fileID: 2100000, guid: 161eee64f66da584c99a9c9a69787454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drzwi-tyl-prawe
+    second: {fileID: 2100000, guid: 7ed500bf7f5cd4049bcaf9c83d1b00a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: okna-nowe-texture
+    second: {fileID: 2100000, guid: a8b2cb272bb65ce47b61bf1ca16f0258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: okna-texture
+    second: {fileID: 2100000, guid: 94be9049bff4fc241ab89b3c2f383597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: okna.001-texture
+    second: {fileID: 2100000, guid: e2ad9d1e89a9c73438b5d7b7d4a2969d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: okna.002-texture
+    second: {fileID: 2100000, guid: 8b7ca28b9c1abb04cbd0eb344080e3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: okna.003-texture
+    second: {fileID: 2100000, guid: 0d4f5b94919a36e469ef5ffe5d1b049e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piwnica
+    second: {fileID: 2100000, guid: add9b7e4d65e7ff47be027a81029fbd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red clear brick
+    second: {fileID: 2100000, guid: ec058dce014b45e44b21995aa1ab91c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sciany - zewn- drzwi
+    second: {fileID: 2100000, guid: bfeb172d2748c3844a15e5badf589e9c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
