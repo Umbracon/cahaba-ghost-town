@@ -3,7 +3,32 @@ guid: 82adb389af4faf1a7b4b5d46a1e9058f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building
+    second: {fileID: 2100000, guid: 7bc6dd29a123e9cd7ada355f5c3734e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Columns
+    second: {fileID: 2100000, guid: 7b3fc34f0a93bdf38a8b6f2456ff46de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 3c4c7fb8f06ca18c8aa69ae4913600c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Graves
+    second: {fileID: 2100000, guid: 7b3fc34f0a93bdf38a8b6f2456ff46de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: c066197b87ec0583490012bfee2679c1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
