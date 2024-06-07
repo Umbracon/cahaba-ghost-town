@@ -27,6 +27,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Material-ciemne drewno
+    second: {fileID: 2100000, guid: 0d4d122ffb0d23748a186515cc7f76a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Mossy roof tiles
     second: {fileID: 2100000, guid: e29727170e96a894c979e146dd100aab, type: 2}
   - first:
