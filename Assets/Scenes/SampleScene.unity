@@ -2450,7 +2450,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -5158,7 +5158,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: b2bf371a8cf945882add5e59468a9145,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.0050754547
+      value: 0.209
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b2bf371a8cf945882add5e59468a9145,
         type: 3}
@@ -5349,8 +5349,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: cee03945313e3d842b043c06e9c0dbf1,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cee03945313e3d842b043c06e9c0dbf1,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cee03945313e3d842b043c06e9c0dbf1,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cee03945313e3d842b043c06e9c0dbf1,
+        type: 3}
       propertyPath: m_LocalPosition.x
-      value: 24.2
+      value: 17.9
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cee03945313e3d842b043c06e9c0dbf1,
         type: 3}
@@ -5360,7 +5375,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: cee03945313e3d842b043c06e9c0dbf1,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -61.7
+      value: -58.07
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cee03945313e3d842b043c06e9c0dbf1,
         type: 3}
@@ -8351,11 +8366,72 @@ PrefabInstance:
       propertyPath: m_Name
       value: house-final-final
       objectReference: {fileID: 0}
+    - target: {fileID: 6660611443135656589, guid: 60d0750415c0ed24b8614d66953b80c4,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bfeb172d2748c3844a15e5badf589e9c, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5788199234073099441, guid: 60d0750415c0ed24b8614d66953b80c4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1230197519}
+    - targetCorrespondingSourceObject: {fileID: 5788199234073099441, guid: 60d0750415c0ed24b8614d66953b80c4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1230197518}
   m_SourcePrefab: {fileID: 100100000, guid: 60d0750415c0ed24b8614d66953b80c4, type: 3}
+--- !u!1 &1230197517 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5788199234073099441, guid: 60d0750415c0ed24b8614d66953b80c4,
+    type: 3}
+  m_PrefabInstance: {fileID: 1230197516}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1230197518
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1230197517}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 28.111996, y: 0, z: 10.01237}
+  m_Center: {x: 5.3950896, y: 0, z: -2.7710462}
+--- !u!65 &1230197519
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1230197517}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 8.008241, y: 0, z: 18.938759}
+  m_Center: {x: -4.656802, y: 0, z: 1.6921453}
 --- !u!1001 &1230423412
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12392,7 +12468,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: f6bad8a6923db06478e18bdfcd3db746,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.0027446747
+      value: 0.212
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f6bad8a6923db06478e18bdfcd3db746,
         type: 3}
@@ -13087,7 +13163,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e58df5cf3b6eb36ff97009d902a5ce3a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.0040950775
+      value: 0.129
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e58df5cf3b6eb36ff97009d902a5ce3a,
         type: 3}
@@ -14305,17 +14381,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 801537c442f8e3a42a9b49396c790abb,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 2
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 801537c442f8e3a42a9b49396c790abb,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 2
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 801537c442f8e3a42a9b49396c790abb,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 2
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 801537c442f8e3a42a9b49396c790abb,
         type: 3}
@@ -14325,7 +14401,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 801537c442f8e3a42a9b49396c790abb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.53
+      value: 1.84
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 801537c442f8e3a42a9b49396c790abb,
         type: 3}
