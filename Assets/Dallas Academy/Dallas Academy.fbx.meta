@@ -3,77 +3,7 @@ guid: 3523f6312c1ef0741bfdd3489e6210d3
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Black
-    second: {fileID: 2100000, guid: b76faeec2e13c564b9dcdd7593ebe44e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Bricks1
-    second: {fileID: 2100000, guid: adc4ba6f26ad16e4888592e9fd8e02c1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Concrete
-    second: {fileID: 2100000, guid: b44f5dacf32c48a4384082b06cf08b62, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: DoorKnobMetal
-    second: {fileID: 2100000, guid: c066197b87ec0583490012bfee2679c1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: DoorWood
-    second: {fileID: 2100000, guid: 9442914aa17a3dc4ea685ea11ac95516, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Floor1st
-    second: {fileID: 2100000, guid: d11bbd6633ecdff45ab5ec9534a477a2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Floor2nd
-    second: {fileID: 2100000, guid: b3e5fe01a94024340a54d1362da4702d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Glass
-    second: {fileID: 2100000, guid: 620a656df90cea546a57567d2eafa645, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: GreyMarble
-    second: {fileID: 2100000, guid: 0107a64b6f78576459f73483811db1d6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: InteriorWalls
-    second: {fileID: 2100000, guid: 0abff59714f075547901baec1d163494, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: LightWood
-    second: {fileID: 2100000, guid: fab3db99e21a986469bc9667d4953cc2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: RoofTiles
-    second: {fileID: 2100000, guid: 411d46f296752ab43b4a87d18a235915, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rubble
-    second: {fileID: 2100000, guid: caf897a12b031e1ddb0727aeac9d72a4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: WhiteMarble
-    second: {fileID: 2100000, guid: 43085130b6e58b04d98e471b9e684fee, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
